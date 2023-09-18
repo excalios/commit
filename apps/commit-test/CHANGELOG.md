@@ -9,6 +9,13 @@ This file was generated using [@jscutlery/semver](https://github.com/jscutlery/s
 
 * **home:** test ([0b4d984](https://github.com/excalios/commit/commit/0b4d9847dd7b7eb59d99b8c02f56671bc97d31bd))
 
+## [2.0.0](https://github.com/excalios/commit/compare/commit-test-1.0.0...commit-test-2.0.0) (2023-09-18)
+
+
+### Features
+
+* **home:** test ([0b4d984](https://github.com/excalios/commit/commit/0b4d9847dd7b7eb59d99b8c02f56671bc97d31bd))
+
 ## [1.0.0](https://github.com/excalios/commit/compare/commit-test-0.1.10...commit-test-1.0.0) (2023-09-18)
 
 ### [0.1.10](///compare/commit-test-0.1.9...commit-test-0.1.10) (2023-09-18)
