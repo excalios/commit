@@ -18,7 +18,7 @@ export default async function Index() {
           <div id="welcome">
             <h1>
               <span> Hello there, </span>
-              Welcome new commit-test 👋
+              Welcome new 2 commit-test 👋
             </h1>
           </div>
 
