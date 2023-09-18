@@ -2,6 +2,8 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+### [0.1.2](///compare/commit-test-0.1.1...commit-test-0.1.2) (2023-09-18)
+
 ### [0.1.1](///compare/commit-test-0.1.0...commit-test-0.1.1) (2023-09-18)
 
 ## [0.1.0](///compare/commit-test-0.0.2...commit-test-0.1.0) (2023-09-18)
